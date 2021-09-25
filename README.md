@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billy0z
 - 👀 I’m interested in C++,Python and deep learning.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Artificial Neural Networks.
 
 <!---
 billy0z/billy0z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
